@@ -2,6 +2,8 @@
 
 Project under guidance of Dr.Nagarajan Ganapathy
 
+Published Paper - https://www.researchgate.net/publication/373119177_Stroke_prediction_using_different_approaches
+
 Dataset used for this paper was from Kaggle.com
 
 Link to dataset : https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
